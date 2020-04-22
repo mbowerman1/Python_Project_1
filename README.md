@@ -5,7 +5,7 @@ Placeholder
 
 
 ## Python Visualizations and Analysis
-Placeholder
+All data from provided [Business Analytics GitHub repository](https://github.com/jhu-business-analytics/covid-19-case-python-data-analysis "COVID-19 Case Python Data Analysis Respository")
 
 BAR GRAPHS:
 We might want to look at similar graphs that show:
