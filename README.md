@@ -10,16 +10,16 @@ All data from provided [Business Analytics GitHub repository](https://github.com
 [Link to .ipynb file](https://drive.google.com/file/d/1vVlLRpT2Fv4mGToSR4xMI9btd_sS1wGQ/view?usp=sharing "Bowerman_Python1.ipynb").
 
 ### Age Distribution by County
-![](Images/us_counties_highest_over60.html)
+![](Images/us_counties_highest_over60.png)
 
-![](Images/us_counties_highest_pct_over60.html)
+![](Images/us_counties_highest_pct_over60.PNG)
 
 These bar graphs show the twenty US counties with the highest number of residents 60 years or older and the highest percentage of residents 60 years or older, respectively. These graphs could help identify which counties may have the higher at-risk population, both in raw numbers and proportionally, for COVID-19 cases or deaths, assuming age is one of the most significant factors in suspectibility to the disease.
 
 Interestingly, there is no crossover between the top 20 counties with the largest 60+ population and the top 20 with the highest percentage of 60+ residents. This may be a potential complication in decisions to distribute COVID-19 relief materials and funds: Which counties are more likely to be overwhelmed by cases? Those with more residents over 60 or those with a largest percentage of their residents over 60?
 
-### BUBBLE GRAPH EXAMPLE:
-![](Images/us_counties_hospitals_v_beds_deaths.html)
+### Hospitals versus Hospital Beds versus COVID-19 Deaths
+![](Images/us_counties_hospitals_v_beds_deaths.png)
 
 I created this visualization to see if there was any strong correlation between the number of hospitals (x-axis), hospital beds per 1000 people (y-axis), and COVID-19 deaths per 1000 people (size of bubble) . The very strong relationship between hospitals and hospital beds is evident. However, there doesn't seem to be an especially strong relationship between number of deaths and hospital beds, as supported by the correlation heatmap (Deaths per 1000 people has a correlation of 0.12 with hospital beds per 1000 people and of 0.09 with number of hospitals). This relationship, or lack thereof, is even more evident when you zoom in on the data, as seen below. There do appear to be more deaths in counties with more hospitals, most likely due simply to greater population in those counties.
 
