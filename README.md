@@ -3,8 +3,10 @@
 ## Business Question
 Placeholder
 
+
 ## Python Visualizations and Analysis
 Placeholder
+
 BAR GRAPHS:
 We might want to look at similar graphs that show:
 20+ counties with the highest population over 60 years old
@@ -20,6 +22,7 @@ Are there US counties that have high populations of people over 60 and under 18 
 
 CORRELATION HEATMAP:
 What other correlations are important to note? What other data sets might we want to use and merge with the COVID-19 data to see what type of policies, partnerships, or support different counties might need to help curb the spread of the novel coronavirus?
+
 
 ## Insights to Inform Business Answer
 Placeholder
