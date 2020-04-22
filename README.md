@@ -23,6 +23,8 @@ Interestingly, there is no crossover between the top 20 counties with the larges
 
 I created this visualization to see if there was any strong correlation between the number of hospitals (x-axis), hospital beds (y-axis), and COVID-19 deaths (size of bubble) per 1000 people. The very strong relationship between hospitals and hospital beds is evident. However, there doesn't seem to be an especially strong relationship between number of deaths and number of hospitals or hospital beds, as supported by the revised correlation heatmap I made below (Deaths per 1000 people has a correlation of -0.09 with number of hospitals and of 0.01 with hospital beds per 1000 people). This relationship, or lack thereof, is even more evident when you zoom in on the data, as seen below.
 
+This convincingly demonstrates that the number of hospitals or hospital beds per 1000 people has not (thus far) been a strong predictor of the number of COVID-19 deaths per 1000 people across all US counties, indicating that there are potentially much more significant factors like social mobility, population density, number of daily travelers etc.
+
 ![](Images/hospitals_v_beds_deaths_zoom.PNG)
 
 ![](Images/us_counties_corr_heatmap.png)
