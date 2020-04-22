@@ -1,12 +1,10 @@
 # Analyzing COVID-19 Preparedness and Risk Factors Across the U.S.
 
-## Business Question
-Placeholder copy
-
+## Business Question: Which US counties are the most vulnerable to the pandemic based on population characteristics and hospital bed availability?
+"We want to better understand which counties might be most vulnerable to a fast-growing infection rate so that those counties might be able to simultaneously implement social distancing policies that allow people to stay at home and still have access to essential items such as food and healthcare and prepare healthcare workers and medical supplies for an influx of patients."
+Pulled from [Business Analytics GitHub repository](https://github.com/jhu-business-analytics/covid-19-case-python-data-analysis "COVID-19 Case Python Data Analysis Respository"), along with all data.
 
 ## Python Visualizations and Insights
-All data from provided [Business Analytics GitHub repository](https://github.com/jhu-business-analytics/covid-19-case-python-data-analysis "COVID-19 Case Python Data Analysis Respository").
-
 [Link to .ipynb file](https://drive.google.com/file/d/1vVlLRpT2Fv4mGToSR4xMI9btd_sS1wGQ/view?usp=sharing "Bowerman_Python1.ipynb").
 
 ### Age Distribution by County
