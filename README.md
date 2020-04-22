@@ -19,7 +19,7 @@ These bar graphs show the twenty US counties with the highest number of resident
 Interestingly, there is no crossover between the top 20 counties with the largest 60+ population and the top 20 with the highest percentage of 60+ residents. This may be a potential complication in decisions to distribute COVID-19 relief materials and funds: Which counties are more likely to be overwhelmed by cases? Those with more residents over 60 or those with a largest percentage of their residents over 60?
 
 ### Hospitals versus Hospital Beds versus COVID-19 Deaths per 1000 People
-![]Images/us_counties_hospitals_v_beds_deaths.png)
+![](Images/us_counties_hospitals_v_beds_deaths.png)
 
 I created this visualization to see if there was any strong correlation between the number of hospitals (x-axis), hospital beds (y-axis), and COVID-19 deaths (size of bubble) per 1000 people. The very strong relationship between hospitals and hospital beds is evident. However, there doesn't seem to be an especially strong relationship between number of deaths and number of hospitals or hospital beds, as supported by the revised correlation heatmap I made below (Deaths per 1000 people has a correlation of -0.09 with number of hospitals and of 0.01 with hospital beds per 1000 people). This relationship, or lack thereof, is even more evident when you zoom in on the data, as seen below.
 
