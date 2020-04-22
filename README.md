@@ -5,7 +5,9 @@ Placeholder
 
 
 ## Python Visualizations and Analysis
-All data from provided [Business Analytics GitHub repository](https://github.com/jhu-business-analytics/covid-19-case-python-data-analysis "COVID-19 Case Python Data Analysis Respository")
+All data from provided [Business Analytics GitHub repository](https://github.com/jhu-business-analytics/covid-19-case-python-data-analysis "COVID-19 Case Python Data Analysis Respository").
+
+[Link to .ipynb file](https://drive.google.com/file/d/1vVlLRpT2Fv4mGToSR4xMI9btd_sS1wGQ/view?usp=sharing "Bowerman_Python1.ipynb").
 
 BAR GRAPHS:
 We might want to look at similar graphs that show:
@@ -25,4 +27,4 @@ What other correlations are important to note? What other data sets might we wan
 
 
 ## Insights to Inform Business Answer
-Placeholder
+__3 to 6 sentences__
